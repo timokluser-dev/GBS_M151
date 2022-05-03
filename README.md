@@ -37,3 +37,6 @@ docker-compose up -d
 | [Task03](./Task03/) | `using () { ... }`           |
 | [Task04](./Task04/) | `Pooling`                    |
 | [Task05](./Task05/) | `Procedures`                 |
+| [Task06](./Task06/) | `DML & DQL`                  |
+| [Task07](./Task07/) | `Query Parameters`           |
+| [Task08](./Task08/) | `Async & Polling`            |
