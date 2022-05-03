@@ -39,4 +39,4 @@ docker-compose up -d
 | [Task05](./Task05/) | `Procedures`                 |
 | [Task06](./Task06/) | `DML & DQL`                  |
 | [Task07](./Task07/) | `Query Parameters`           |
-| [Task08](./Task08/) | `Async & Polling`            |
+| [Task08](./Task08/) | `Async`                      |
