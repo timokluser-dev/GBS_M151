@@ -10,8 +10,6 @@ namespace Task06
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
             Update();
             Insert();
             Delete();
