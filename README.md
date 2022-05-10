@@ -30,15 +30,16 @@ docker-compose up -d
 
 ## Tasks
 
-| Task                              | Description                        |
-| --------------------------------- | ---------------------------------- |
-| [Task01](./Task01/)               | `SqlConnection`                    |
-| [Task02](./Task02/)               | `SqlConnectionStringBuilder`       |
-| [Task03](./Task03/)               | `using () { ... }`                 |
-| [Task04](./Task04/)               | `Pooling`                          |
-| [Task05](./Task05/)               | `Procedures`                       |
-| [Task06](./Task06/)               | `DML & DQL`                        |
-| [Task07](./Task07/)               | `Query Parameters`                 |
-| [Task08](./Task08/)               | `Async`                            |
-| ...                               |                                    |
-| [EFCoreDbFirst](./EFCoreDbFirst/) | `EF Core Db First Example Project` |
+| Task                              | Description                          |
+| --------------------------------- | ------------------------------------ |
+| [Task01](./Task01/)               | `SqlConnection`                      |
+| [Task02](./Task02/)               | `SqlConnectionStringBuilder`         |
+| [Task03](./Task03/)               | `using () { ... }`                   |
+| [Task04](./Task04/)               | `Pooling`                            |
+| [Task05](./Task05/)               | `Procedures`                         |
+| [Task06](./Task06/)               | `DML & DQL`                          |
+| [Task07](./Task07/)               | `Query Parameters`                   |
+| [Task08](./Task08/)               | `Async`                              |
+| [Task09](./Task09/)               | `SqlDataAdapter & SqlCommandBuilder` |
+| ...                               |                                      |
+| [EFCoreDbFirst](./EFCoreDbFirst/) | `EF Core Db First Example Project`   |
